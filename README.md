@@ -1,6 +1,6 @@
 ## Math Magicians
 
-In this project, I built a culculator web application using react.
+In this project, I built a culculator web application using React.
 
 ## Built With
 
