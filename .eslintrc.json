@@ -1,0 +1,33 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "extends": ["airbnb-base", "plugin:react/recommended"
+],
+  "rules": {
+    "react/jsx-uses-react": "error",   
+     "react/jsx-uses-vars": "error" ,
+      // suppress errors for missing 'import React' in files
+    "react/react-in-jsx-scope": "off",
+   // allow jsx syntax in js files (for next.js project)
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }], //should add ".ts" if typescript project
+    "no-shadow": "off",
+    "no-param-reassign": "off",
+    "eol-last": "off",
+    "import/extensions": [ 1, {
+      "js": "always", "json": "always"
+    }]
+  },
+  "ignorePatterns": [
+    "dist/",
+    "build/",
+    "luxon.js"
+  ]
+}
