@@ -17,11 +17,9 @@ In this project, I built a culculator web application using React.
 - webpack
 - npm
 
-[Live demo](https://shoirata.github.io/Calculator/)
-
 ## Demo
 
-![](demo.gif)
+![](calc.jpg)
 
 ## Getting Started
 
