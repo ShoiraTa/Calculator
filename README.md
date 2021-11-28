@@ -19,7 +19,7 @@ In this project, I build a culculator web application using React.
 
 ## Demo
 
-![](demo.gif)
+[Demo-page](http://ShoiraTa.github.io/Calculator)
 
 ## Getting Started
 
