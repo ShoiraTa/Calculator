@@ -19,7 +19,9 @@ In this project, I build a culculator web application using React.
 
 ## Demo
 
-[Demo-page](http://ShoiraTa.github.io/Calculator)
+[Demo-page](http://ShoiraTa.github.io/Expenses_tracker)
+
+![](demo.gif)
 
 ## Getting Started
 
