@@ -19,7 +19,7 @@ In this project, I build a culculator web application using React.
 
 ## Demo
 
-[Demo-page](http://ShoiraTa.github.io/Expenses_tracker)
+[Demo-page](http://ShoiraTa.github.io/Calculator)
 
 ![](demo.gif)
 
