@@ -19,7 +19,11 @@ In this project, I build a culculator web application using React.
 
 ## Demo
 
-![](demo.gif)
+[Demo-page](http://ShoiraTa.github.io/Calculator)
+
+| Demo year has expenses | Demo year has no expenses |
+| ---------------------- | ------------------------- |
+| ![image](./demo1.jpg)  | ![image](./demo2.jpg)     |
 
 ## Getting Started
 
