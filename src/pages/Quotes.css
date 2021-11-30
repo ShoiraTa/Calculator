@@ -1,13 +1,13 @@
-.container{
+.container {
   width: 80%;
   margin: auto;
   padding-top: 3rem;
 }
 
-.container h1{
+.container h1 {
   color: black;
 }
 
-.container h1 span{
+.container h1 span {
   font-weight: 700;
 }
