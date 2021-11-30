@@ -1,12 +1,11 @@
 .calculator {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .single-cell {
-  width: 160px;
-  height: 100px;
+  width: 140px;
+  height: 90px;
   border: 1px solid #d1d1d1;
   display: flex;
   align-items: center;
@@ -16,9 +15,13 @@
   cursor: pointer;
 }
 
+h1{
+  color: #3f3f3f;
+}
+
 .calculator-container,
 .calculator-oprtaitions {
-  width: 658px;
+  width: 580px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -44,13 +47,13 @@
 }
 
 .zero {
-  width: 325px;
+  width: 280px;
 }
 
 .result {
   width: 100%;
   background-color: rgb(133, 134, 147);
-  height: 80px;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: flex-end;
