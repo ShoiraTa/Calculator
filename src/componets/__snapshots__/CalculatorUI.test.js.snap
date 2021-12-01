@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches home snapshot 1`] = `
+<div
+  className="calculator"
+>
+  <h1>
+    Let's do some Math
+  </h1>
+  <div
+    className="calculator-container"
+  >
+    <div
+      className="result"
+    >
+      0
+    </div>
+    <div
+      className="calculator-oprtaitions"
+    >
+      <button
+        className="bg-gray single-cell "
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="bg-gray single-cell "
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="bg-gray single-cell "
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="bg-orange single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="bg-gray single-cell "
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="bg-gray single-cell "
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="bg-orange single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="bg-gray single-cell "
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="bg-orange single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="bg-orange single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="bg-gray zero single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="bg-gray single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="bg-orange single-cell"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
