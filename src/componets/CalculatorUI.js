@@ -4,7 +4,6 @@
 import './calculatorUI.css';
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
-import Header from './Header';
 
 const Calculator = () => {
   const [state, setState] = useState({ total: '0', next: null, operation: null });
@@ -15,7 +14,6 @@ const Calculator = () => {
 
   return (
     <>
-      <Header />
 
       <div className="calculator">
         <h1>Let&apos;s do some Math</h1>
