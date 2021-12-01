@@ -3,7 +3,7 @@ import calculate from './calculate';
 let calcObject = { total: '0', next: null, operation: null };
 
 beforeEach(() => {
-  let calcObject = { total: '0', next: null, operation: null };
+  calcObject = { total: '0', next: null, operation: null };
 });
 
 describe('sum of numbers', () => {
