@@ -1,7 +1,8 @@
-import TestRenderer from 'react-test-renderer';
-import Quotes from './Quotes';
+import React from 'react';
+import renderer from 'react-test-renderer';
+import Quote from './Quotes';
 
 test('matches home snapshot', () => {
-  const tree = TestRenderer.create(<Quotes />).toJSON();
+  const tree = renderer.create(<Quote />).toJSON();
   expect(tree).toMatchSnapshot();
 });
