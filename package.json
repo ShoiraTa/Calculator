@@ -21,9 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -67,6 +65,5 @@
     "webpack-cli": "^4.9.1",
     "webpack-dev-middleware": "^5.2.2",
     "webpack-dev-server": "^4.6.0"
-  },
-  "homepage": "https://shoirata.github.io/Calculator/"
+  }
 }
