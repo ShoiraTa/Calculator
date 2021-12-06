@@ -12,18 +12,18 @@ ReactDOM.render(
   <Router>
 
     <header className="header">
-      <Link className="logo" to="/Calculator/">Math Magicians</Link>
+      <Link className="logo" to="/">Math Magicians</Link>
       <nav>
-        <Link className="link" to="/Calculator/">Home</Link>
-        <Link className="link" to="/Calculator/app">Calculator</Link>
-        <Link className="link" to="/Calculator/quotes">Quote</Link>
+        <Link className="link" to="/">Home</Link>
+        <Link className="link" to="/app">Calculator</Link>
+        <Link className="link" to="/quotes">Quote</Link>
       </nav>
     </header>
 
     <Routes>
-      <Route path="Calculator/" element={<Home />} />
-      <Route path="Calculator/app" element={<App />} />
-      <Route path="Calculator/quotes" element={<Quotes />} />
+      <Route path="/" element={<Home />} />
+      <Route path="/app" element={<App />} />
+      <Route path="/quotes" element={<Quotes />} />
     </Routes>
   </Router>,
   document.getElementById('root'),
