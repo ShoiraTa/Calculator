@@ -22,6 +22,8 @@ In this project, I build a culculator web application using React.
 [Demo-page](http://ShoiraTa.github.io/Calculator)
 
 ![](demo.gif)
+[Netlify](https://keen-lamport-984a6a.netlify.app/app)
+[Heroku](https://calculator-app-shoira.herokuapp.com/)
 
 ## Getting Started
 
